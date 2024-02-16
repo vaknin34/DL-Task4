@@ -2,3 +2,5 @@
 .DS_Store
 data/vocab.zip
 models/pretrained_model.zip
+models/decoder-5-3000.pkl
+models/encoder-5-3000.pkl
